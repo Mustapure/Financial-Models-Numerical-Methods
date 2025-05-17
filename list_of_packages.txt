@@ -1,0 +1,12 @@
+arch
+cvxpy
+cython
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
+sympy
